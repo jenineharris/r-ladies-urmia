@@ -1,5 +1,7 @@
 # Hands-on Tutorial of ggplot2 Package in R
 
+## R-Ladies Urmia / June 30, 2022
+
 ### Workshop Instructions
 
 R is a statistical software that is <a href = "https://www.r-project.org">free, open-source, and can run on most operating systems</a>. This means that anyone in the world with access to a computer and the internet can use it and anyone in the world can contribute to the development of new tools in R. 
